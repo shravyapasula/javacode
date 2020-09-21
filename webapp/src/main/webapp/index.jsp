@@ -2,16 +2,5 @@
 
 Available courses..
 
-MCSE
-CCNA
-LINUX
-VMWARE
-AWS
-DEVOPS
-DOCKER
-KUBERNETS
-
-
-
 also we are looking for robotics technolgies........
 
