@@ -1,4 +1,4 @@
-<h1> ############### WELCOME coss institutw for new camels      ############### </h1>
+<h1> ############### Happy New Year      ############### </h1>
 
 Available courses..
 
